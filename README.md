@@ -1,4 +1,4 @@
-# kollaboratives-schreiben
+# Kollaboratives Schreiben mit GitHub (UB Tübingen, 15.5.2019)
 Das Repository für Workshop "Kollaboratives Schreiben mit GitHub" am 15.5.2019.
 
 # Markdown

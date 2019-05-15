@@ -1,0 +1,3 @@
+- Kartoffelsalat
+- Tomatensalat
+- Wortsalat

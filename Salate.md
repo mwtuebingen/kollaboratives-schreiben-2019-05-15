@@ -1,5 +1,6 @@
 - Kartoffelsalat
 - Tomatensalat
-- Salatwurst
+- Wortsalat
+- Wurstsalat
 - Paprikasalat
 

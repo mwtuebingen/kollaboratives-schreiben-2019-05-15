@@ -27,3 +27,4 @@ Convallis convallis tellus id interdum velit laoreet id donec ultrices. Vulputat
 - Vorspeisen
 - Fleisch/Fisch/Vegetarische
 - Beilagen
+- Deko

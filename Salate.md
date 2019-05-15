@@ -1,4 +1,3 @@
 - Kartoffelsalat
 - Tomatensalat
 - Wortsalat
-- Salatwurst

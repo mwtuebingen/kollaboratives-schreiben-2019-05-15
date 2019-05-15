@@ -2,3 +2,4 @@
 - Tomatensalat
 - Wortsalat
 - Salatwurst
+- Paprikasalat

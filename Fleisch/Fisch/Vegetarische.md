@@ -1,13 +1,13 @@
 
 ## Salate
 
--Antipasti
--Tomate Mozzarella
--Gurke
--Rohkost
+--Antipasti
+--Tomate Mozzarella
+--Gurke
+--Rohkost
 
 ## Grillgut
 
--Lammkotelett
--Nürnberger Würstchen
+- Lammkotelett
+- Nürnberger Würstchen
 
